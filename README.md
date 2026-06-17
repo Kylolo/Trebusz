@@ -1,4 +1,4 @@
-# Trebusz, czyli projekt na przedmiot Podstawy Procesów Obróbczych
+# Trebusz, czyli projekt na przedmiot Prototypowanie Procesów Obróbczych
 
 Zadaniem było zaprojekowanie i wykonanie trebuszu.
 Jedyne założenia projektowe jakie były to:
